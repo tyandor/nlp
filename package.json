@@ -1,0 +1,15 @@
+{
+  "name": "js-nl",
+  "version": "1.0.0",
+  "description": "JS Natural Language Processing",
+  "main": "index.js",
+  "author": "Tyler Andor",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "en-etym": "^0.1.1",
+    "fs": "^0.0.1-security",
+    "natural": "^0.6.3",
+    "wordnet-db": "^3.1.14"
+  }
+}
